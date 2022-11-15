@@ -16,4 +16,7 @@
     "url": "https://github.com/NunesMig/packagestutorial/issues"
   },
   "homepage": "https://github.com/NunesMig/packagestutorial#readme"
+  "publishConfig": {
+    "@NunesMig:registry": "https://npm.pkg.github.com"
+  }
 }
